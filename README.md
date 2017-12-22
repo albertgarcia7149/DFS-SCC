@@ -15,7 +15,7 @@ __Graph.c__ - standard graph ADT implementation file
 
 __Graph.h__ - standard graph ADT header file
 
-__GraphTest.c__ - basic testing of the graph ADT
+__GraphTest.c__ - basic test file for the graph ADT
 
 __List.c__ - standard list ADT implementation file
 
