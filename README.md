@@ -22,3 +22,5 @@ __List.c__ - standard list ADT implementation file
 __List.h__ - standard list ADT header file
 
 __Makefile__ - compiles the files
+
+__in.txt__ - first line is number of vertices. Then all following lines are edges until 0 0 is reached in which means end of file
